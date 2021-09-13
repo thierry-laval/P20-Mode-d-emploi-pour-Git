@@ -1,0 +1,8 @@
+Création et test d'un fichier texte
+
+Ceci est un fichier texte
+
+Test de modification du fichier texte directement en ligne sur github
+Avec ajout de la phrase d'identification du changement
+
+Modification du fichier texte depuis mon ordinateur local
