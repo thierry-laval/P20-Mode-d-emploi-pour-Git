@@ -31,7 +31,7 @@ Je liste les commandes de base. Il existe des commandes plus complexes. Des opti
 * `git status` : vérifier le statut, l'état (si modification de fichier) du répertoire de travail (le repository)
 * `git add nom_du_fichier` : ajoute un nouveau fichier (du répertoire de travail) à l'index
 * `git add .` : ajoute tous les fichiers à l'index
-* `git commit -m "Phrase_explication_détaillée_du_commit"` : Ajouter les fichiers de l'index dans un commit
+* `git commit -m "Phrase_explication_détaillée_du_commit"` : ajouter les fichiers de l'index dans un commit
 * `git commit -am "Phrase_explication"` : ajouter les fichiers au repository, directement sans le add si le fichier est déjà ajouté > - update de fichiers
 * `git log` : Voir l'historique des modifications du commit sous forme de liste
 * `git checkout [sha_du_commit]` : se positionner sur un ancien commit > - attention le retour à un commit efface les commits les plus récents > - si push après retour
@@ -149,8 +149,8 @@ Une fois les tests effectués et les contenus validés sur cette ou ces branches
 
 ### Mettre à jour GIT :
 
-* ` version :** vérifie la version installée
-* **Sur MAC,** télécharger le dernier dmg ou utiliser homebrew
+* `git version` :vérifie la version installée
+* **Sur MAC**, télécharger le dernier dmg ou utiliser homebrew
 
 ***
 
